@@ -1,7 +1,10 @@
 #include<stdio.h>
 int main(void)
 {
-    printf("Hello,World!);
+    while(1)
+    {
+        printf("Hello,World!);
     
-    return 0;
+        return 0;
+     }
  }
